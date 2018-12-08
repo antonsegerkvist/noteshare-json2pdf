@@ -1,0 +1,4 @@
+#ifndef NJ2P_JSON_2_PDF_FONT_HPP
+#define NJ2P_JSON_2_PDF_FONT_HPP
+
+#endif // NJ2P_JSON_2_PDF_FONT_HPP
